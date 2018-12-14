@@ -1,0 +1,16 @@
+{
+  "name": "supe-addon-remote-supervision",
+  "version": "1.0.0",
+  "description": "Allows Supe citizens to utilize their supervisor's supervision APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "supe",
+    "addon",
+    "supervision"
+  ],
+  "author": "",
+  "license": "MIT"
+}
