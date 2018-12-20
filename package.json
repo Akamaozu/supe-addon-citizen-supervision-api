@@ -1,5 +1,5 @@
 {
-  "name": "supe-addon-remote-supervision",
+  "name": "supe-addon-citizen-supervision-api",
   "version": "1.0.0",
   "description": "Allows Supe citizens to utilize their supervisor's supervision APIs",
   "main": "index.js",
