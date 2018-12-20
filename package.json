@@ -12,5 +12,9 @@
     "supervision"
   ],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "require-directory": "^2.1.1",
+    "uuid": "^3.3.2"
+  }
 }
