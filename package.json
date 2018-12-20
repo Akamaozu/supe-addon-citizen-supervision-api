@@ -1,6 +1,6 @@
 {
   "name": "supe-addon-citizen-supervision-api",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Allows Supe citizens to utilize their supervisor's supervision APIs",
   "main": "index.js",
   "scripts": {
